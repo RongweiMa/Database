@@ -5,5 +5,6 @@ The database needed to be created between Matchmaking system with Virtual Enviro
 As Visual Studio is the Plugin between those two system.
 The database should be possbile to connect with Visual Studio by server to extract the data.
 
-Currently there are different apporaches. 
-\centerdot  
+Currently there are different apporaches:
+* create database in MySQL Workbench
+* create database in Visual Studio
